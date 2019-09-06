@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My Cool Website</title>
+</head>
+<body>
+	Name, email, phone, major, your IP address, where you are from, something no one would expect about you
+	<h1>Hello</h1>
+	<h2>my name is Ana</h2>
+	<h3>my email is ana.arsovska@tufts.edu</h3>
+	<h4>my phone is none of your business</h4>
+	<h5>i study Computer Science</h5>
+	<h6>98.217.76.54</h6>
+	<h7>i am from macedonia</h7>
+	<h8>i eat vegetalbes</h8>
+</body>
+</html>
