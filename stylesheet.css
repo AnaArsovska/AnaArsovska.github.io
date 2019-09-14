@@ -16,7 +16,10 @@ p {
 }
 div#fixedheader{
     width:100%;
+    top:0px;
+    left:0px;
     height: 50px;
+    padding:20px;
     position:fixed;
     background-color: #FFFDF9;
     color: #002E7C;
