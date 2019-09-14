@@ -13,3 +13,9 @@ p {
     color: 000000;
     max-width: 65ch;
 }
+.fixedheader{
+    background-color: #002E7A;
+    color: #FFFDF0;
+    font-size: 30;
+    font-style: bold;
+}
