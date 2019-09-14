@@ -3,35 +3,3 @@ body {
     color: white;
     font-size: 1.1em;
 }
-h1 {
-    color: coral;
-}
-#intro {
-    font-size: 1.3em;
-}
-table, th, td {
-  border: 20px solid black;
-  background-color: #f0970e;
-}
-.header{
-	font-size: 4.5em;
-	color: #f535aa;
-  	padding-top: 100px;
- 	padding-right: 30px;
-  	padding-left: 80px;
-	transform: skewY(20deg);
-}
-.shrekify {
-	background-image:url("http://s.wsj.net/public/resources/images/OB-IO273_shrekf_E_20100520084037.jpg");
-}
-.bigButton{
-	display: block;
-  	width: 100%;
-  	border: none;
- 	background-color: #FD5F00;
-  	color: white;
-  	padding: 30px 28px;
-  	font-size: 90px;
-  	cursor: pointer;
-  	text-align: center;
-}
