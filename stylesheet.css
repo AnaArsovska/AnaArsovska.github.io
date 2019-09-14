@@ -13,7 +13,7 @@ p {
     color: 000000;
     max-width: 65ch;
 }
-.fixedheader{
+div#fixedheader{
     background-color: #002E7A;
     color: #FFFDF0;
     font-size: 30;
