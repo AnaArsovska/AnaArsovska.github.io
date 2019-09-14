@@ -1,10 +1,15 @@
 body {
     background-color: #FFFDF0;
     font-size: 20px;
+    line-height: 2;
 }
 h1 {
     color: #002E7A;
 }
 h2 {
     color: #002E7C;
+}
+p {
+    color: 000000;
+    max-width: 65ch;
 }
