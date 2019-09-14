@@ -14,6 +14,7 @@ p {
     max-width: 65ch;
 }
 div#fixedheader{
+    position:fixed;
     background-color: #002E7A;
     color: #FFFDF0;
     font-size: 30;
