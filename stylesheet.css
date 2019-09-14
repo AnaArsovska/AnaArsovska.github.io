@@ -1,7 +1,10 @@
 body {
     background-color: #FFFDF0;
-    font-size: 1.1em;
+    font-size: 20px;
 }
 h1 {
     color: #002E7A;
+}
+h2 {
+    color: #002E7C;
 }
