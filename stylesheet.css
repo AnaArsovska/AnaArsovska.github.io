@@ -2,6 +2,7 @@ body {
     background-color: #FFFDF0;
     font-size: 20px;
     line-height: 2;
+    position:relative;
 }
 h1 {
     color: #002E7A;
@@ -19,7 +20,7 @@ div#fixedheader{
     left:0px;
     height: 50px;
     padding:20px;
-    position:relative;
+    position:fixed;
     background-color: #E6CFCF;
     background-image: url(https://www.guidedogs.org/wp-content/uploads/2015/06/logo-guidedogs-hor-blue-520x110.png)
     color: #002E7C;
