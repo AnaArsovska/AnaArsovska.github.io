@@ -14,7 +14,7 @@ p {
     color: 000000;
     max-width: 65ch;
 }
-div#fixedheader{
+header{
     width:100%;
     top:0px;
     left:0px;
